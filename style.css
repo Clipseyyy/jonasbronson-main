@@ -378,7 +378,6 @@ nav ul li a:hover::after{
 .accolades-col-2 img{
     width: 100%;
     border-radius: 15px;
-    box-shadow: 0 0 3px darkslategrey;
 }
 
 /*------------------contact-----------------*/
